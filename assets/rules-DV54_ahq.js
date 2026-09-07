@@ -1,0 +1,1 @@
+var e=e=>`R$ `+e.toLocaleString(`pt-BR`,{minimumFractionDigits:2,maximumFractionDigits:2}),t=e=>{if(e==null||e===``)return`—`;let t=new Date(e);return Number.isNaN(t.getTime())?`—`:t.toLocaleDateString(`pt-BR`,{day:`2-digit`,month:`2-digit`})};export{t as n,e as t};

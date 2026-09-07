@@ -1,0 +1,1 @@
+import{t as e}from"./react-D0Ec-185.js";var t=e();function n({children:e,width:n=`max-w-xl`}){return(0,t.jsx)(`div`,{className:[`mx-auto w-full`,n].join(` `),children:(0,t.jsx)(`div`,{className:`bg-white rounded-2xl border border-line/80 shadow-[0_1px_2px_rgba(11,34,55,0.04)] flex flex-col`,style:{minHeight:640},children:e})})}export{n as t};
