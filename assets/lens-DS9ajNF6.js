@@ -1,1 +1,0 @@
-import{x as e,z as t}from"./index-CLAJPIQZ.js";function n(){let{activeMemberId:n,activeMember:r}=e();return{memberId:n,label:r?r.name:`Casa`,valueOf:(e,r)=>n?t(e,r,n):e,includes:e=>!n||e.some(e=>e.memberId===n)}}export{n as t};
