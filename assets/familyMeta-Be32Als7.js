@@ -1,0 +1,1 @@
+import{t as e}from"./wallet-BDYoI0sm.js";import{_ as t,g as n,i as r,ln as i,on as a}from"./index-B4M83-o6.js";var o={Previdência:{icon:i,color:t},Fundos:{icon:e,color:n},ETF:{icon:a,color:r}},s={icon:e,color:n};function c(e){return o[e]??s}export{c as t};
