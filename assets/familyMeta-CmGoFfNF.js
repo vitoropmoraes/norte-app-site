@@ -1,1 +1,0 @@
-import{t as e}from"./wallet-Czba_IgP.js";import{_ as t,fn as n,g as r,hn as i,i as a}from"./index-CgIW6-hm.js";var o={Previdência:{icon:i,color:t},Fundos:{icon:e,color:r},ETF:{icon:n,color:a}},s={icon:e,color:r};function c(e){return o[e]??s}export{c as t};
