@@ -1,1 +1,0 @@
-import{t as e}from"./wallet-B9urCexk.js";import{cr as t,dr as n,o as r,v as i,y as a}from"./index-PayroP5C.js";var o={Previdência:{icon:n,color:a},Fundos:{icon:e,color:i},ETF:{icon:t,color:r}},s={icon:e,color:i};function c(e){return o[e]??s}export{c as t};

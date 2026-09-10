@@ -1,1 +1,0 @@
-import{Tn as e,Z as t}from"./index-PayroP5C.js";function n(){let{activeMemberId:n,activeMember:r}=t();return{memberId:n,label:r?r.name:`Casa`,valueOf:(t,r)=>n?e(t,r,n):t,includes:e=>!n||e.some(e=>e.memberId===n)}}export{n as t};
